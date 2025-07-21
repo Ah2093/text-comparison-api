@@ -1,0 +1,54 @@
+Junior Java Software Developer - VOIS
+Aggregate function:  Shared Services
+Business Area:  Technology _VOIS
+Posting Country:  Egypt
+Date Posted:  23 Jan 2025
+Full Time / Part Time:  Full Time
+Contract Type:  Fixed Term Contract
+At Vodafone, we’re working hard to build a better future. A more connected, inclusive and sustainable world. As a dynamic global community, it's our human spirit, together with technology, that empowers us to achieve this. 
+
+We challenge and innovate in order to connect people, businesses, and communities across the world. Delighting our customers and earning their loyalty drive us, and we experiment, learn fast and get it done, together.
+
+With us, you can be truly be yourself and belong, share inspiration, embrace new opportunities, thrive, and make a real difference.
+
+What you’ll do
+The Back-End Developer creates the logical back-end and core computational logic of a website, software or information system (using broad technologies such as JAVA, C#, Python etc). Creating prototypes and designs and builds modules and solutions in all iterative cycles, to develop, maintain, and optimize the business outcome. This role is responsible for performing peer reviews, collaborating with architects and other developers to produce design, and ensuring that technical documentation and training is provided for reference and operational support. Typically reports to the Chapter Lead.
+Who you are
+* Designs and develops code, writes and executes unit and integration tests, and supports testing of deliverables against user and technical story acceptance tests;
+
+* Designs and develops micro-services in Digital Agility Layer supporting specific commercial requirements and customer journeys;
+
+* Builds performance driven websites/user interfaces with an understanding of network traffic, HTTP requests and other performance focused enhancements;
+
+* Tests and deploys developed micro-services to relevant environments using available CI/CD tools;
+
+* Understands / uses RESTful APIs and JSON;
+
+* Coordinates with relevant stakeholders inside and outside the squad to clarify commercial requirements and ensure the correct high-quality outcome;
+
+* Estimates user and technical stories to help inform and prioritize backlog;
+
+* Develops and executes unit and integration tests and supports testing against user and technical story acceptance tests;
+
+* Suggests improvements to user stories and design;
+
+* Manages technical debt as part of daily activities;
+
+* Maintains coding standards;
+
+* Troubleshoots, maintains and optimizes released micro-services based on defined allocation of ownership.
+
+Not a perfect fit?
+Worried that you don’t meet all the desired criteria exactly? At Vodafone we are passionate about Inclusion for All and creating a workplace where everyone can thrive, whatever their personal or professional background. If you’re excited about this role but your experience doesn’t align exactly with every part of the job description, we encourage you to apply as you may be the right candidate for this role or another role, and our recruitment team can help you see how your skills fit in.
+
+What's in it for you
+We want you to feel happy and fulfilled at work, without compromising the other things in life that matter to you. There are lots of ways we support this, including hybrid working and generous parental leave. You'll also get four Spirit Days a year to focus on your personal development and wellbeing, plus a host of other great benefits too.
+
+Who we are
+You may have already heard of Vodafone - We're a leading Telecommunications company in Europe and Africa. But what you might not know is that we are continuously investing in new technologies to improve the lives of millions of customers, businesses and people around the world, creating a better future for everyone.
+
+As part of our global family, whether that's Vodafone, Vodacom or _VOIS, you'll feel a sense of pride and purpose as you contribute to our culture of innovation. We pursue equality of opportunity and inclusion for all candidates through our employment policies and practices. We recognise and celebrate the importance of diversity and inclusivity in our workspace and we do not tolerate any form of discrimination especially related to but not limited to race, colour, age, veteran status, gender identification, sexual orientation, pregnancy, ethnicity, disability, religion, political affiliation, trade union membership, nationality, indigenous status, medical condition, HIV status, social origin, cultural background, social, or marital status.
+
+Together we can.
+
+Vodafone is committed to attracting, developing and retaining the very best people by offering a motivating and inclusive workplace in which talent is truly recognised and rewarded. We are committed to promoting Inclusion for All with the belief that diversity plays an important role in the success of our business. We actively encourage everyone to consider becoming a part of our journey.
