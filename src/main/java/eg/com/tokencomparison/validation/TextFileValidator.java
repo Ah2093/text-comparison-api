@@ -16,14 +16,12 @@ public class TextFileValidator implements ConstraintValidator<ValidTextFile, Mul
             return false;
         }
 
-        // Check if file is empty
         if (file.isEmpty()) {
             context.disableDefaultConstraintViolation();
             context.buildConstraintViolationWithTemplate("File is empty").addConstraintViolation();
             return false;
         }
 
-        // Validate extension
         String originalFilename = file.getOriginalFilename();
         if (originalFilename == null || !originalFilename.toLowerCase().endsWith(".txt")) {
             context.disableDefaultConstraintViolation();
@@ -31,7 +29,6 @@ public class TextFileValidator implements ConstraintValidator<ValidTextFile, Mul
             return false;
         }
 
-        // Validate size
         if (file.getSize() > MAX_SIZE) {
             context.disableDefaultConstraintViolation();
             context.buildConstraintViolationWithTemplate("File size exceeds 10MB").addConstraintViolation();
